@@ -1,2 +1,1 @@
-###dreamhack ID
-##NoImpMe
+##dreamhack ID = NoImpMe
